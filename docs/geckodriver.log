@@ -1,0 +1,998 @@
+1685244118504	geckodriver	INFO	Listening on 127.0.0.1:54197
+1685244121551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54198" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofileKXRNkT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685244122168	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685244122177	Marionette	INFO	Listening on port 54207
+Read port: 54207
+WebDriver BiDi listening on ws://127.0.0.1:54198
+1685244122400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54198/devtools/browser/320c9156-d4eb-4858-9cd4-56809fb28033
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+1685244169805	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685244226799	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+1685244278104	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685244357275	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+1685244707239	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+1685244743178	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685244782407	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685244786452	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+[Child 22708, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22708, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22708, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22708, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22708, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22708, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22708, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22708, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685244905037	Marionette	INFO	Stopped listening on port 54207
+Dynamically enable window occlusion 1
+1685350456488	geckodriver	INFO	Listening on 127.0.0.1:60123
+1685350459584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60124" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofilerAdOXc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685350460030	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685350460035	Marionette	INFO	Listening on port 60134
+WebDriver BiDi listening on ws://127.0.0.1:60124
+Read port: 60134
+1685350460278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:60124/devtools/browser/4e5cf78d-fbe5-42d9-bca5-496cfccd93ed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+1685350643191	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685350698232	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1685350719088	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+1685350725668	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+[Child 4956, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4956, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4956, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4956, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4956, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4956, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4956, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4956, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685350748834	Marionette	INFO	Stopped listening on port 60134
+Dynamically enable window occlusion 1
+1687998457362	geckodriver	INFO	Listening on 127.0.0.1:51391
+1687998460434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51392" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofile3qSbbh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687998460780	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687998460784	Marionette	INFO	Listening on port 51401
+WebDriver BiDi listening on ws://127.0.0.1:51392
+Read port: 51401
+1687998460993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51392/devtools/browser/0abbb8e0-886b-40c1-8471-498eed620929
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+1687998614567	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/js/notification.js, line 1: TypeError: $(...).summernote is not a function
+JavaScript error: https://sena.territorio.la/notificacionesSiguiente.php?IdNotificacion=28173478, line 1254: TypeError: $(...).on is not a function
+JavaScript error: https://botformacion.sena.edu.co/agenti_lite_senaformacion/js/scripts.js, line 157: TypeError: $(...).on is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+[Child 3608, MediaDecoderStateMachine #2] WARNING: 1a5ca9bedf0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+console.error: (new TypeError("state.hideToggleDeferredTask is null", "resource://gre/actors/PictureInPictureChild.sys.mjs", 1448))
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 1448: TypeError: state.hideToggleDeferredTask is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+1687999228734	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://sena.territorio.la/js/notification.js, line 1: TypeError: $(...).summernote is not a function
+[Child 3608, MediaDecoderStateMachine #3] WARNING: 1a5cb43dde0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript error: https://sena.territorio.la/notificacionesSiguiente.php?IdNotificacion=27031131, line 1254: TypeError: $(...).on is not a function
+JavaScript error: https://botformacion.sena.edu.co/agenti_lite_senaformacion/js/scripts.js, line 157: TypeError: $(...).on is not a function
+JavaScript error: https://sena.territorio.la/js/notification.js, line 1: TypeError: $(...).summernote is not a function
+JavaScript error: https://sena.territorio.la/notificacionesSiguiente.php?IdNotificacion=28173478, line 1254: TypeError: $(...).on is not a function
+JavaScript error: https://botformacion.sena.edu.co/agenti_lite_senaformacion/js/scripts.js, line 157: TypeError: $(...).on is not a function
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 1539: TypeError: shadowRoot is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 1539: TypeError: shadowRoot is null
+[Child 3608, MediaDecoderStateMachine #3] WARNING: 1a5c8223230 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 1539: TypeError: shadowRoot is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 1539: TypeError: shadowRoot is null
+[Child 3608, MediaDecoderStateMachine #3] WARNING: 1a5c8223230 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 1539: TypeError: shadowRoot is null
+1688001379312	Marionette	INFO	Stopped listening on port 51401
+Dynamically enable window occlusion 1
+1689727238144	geckodriver	INFO	Listening on 127.0.0.1:60255
+1689727241189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60256" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofileVLXyYh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689727241611	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689727241711	Marionette	INFO	Listening on port 60267
+WebDriver BiDi listening on ws://127.0.0.1:60256
+Read port: 60267
+1689727241945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60256/devtools/browser/5f982c01-bba9-452b-bd3e-57aecae1f026
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1689728210481	Marionette	INFO	Stopped listening on port 60267
+Dynamically enable window occlusion 1
+1689804254874	geckodriver	INFO	Listening on 127.0.0.1:64737
+1689804257958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64738" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofileznBOEr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689804258343	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689804258434	Marionette	INFO	Listening on port 64750
+WebDriver BiDi listening on ws://127.0.0.1:64738
+Read port: 64750
+1689804258657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64738/devtools/browser/771d1361-dbe6-45e0-9cd7-95e5de8ed08d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+1689806628771	Marionette	INFO	Stopped listening on port 64750
+Dynamically enable window occlusion 1
+1689813048402	geckodriver	INFO	Listening on 127.0.0.1:53470
+1689813051491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53471" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofilejBLjvd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689813051907	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689813052000	Marionette	INFO	Listening on port 53480
+WebDriver BiDi listening on ws://127.0.0.1:53471
+Read port: 53480
+1689813052217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53471/devtools/browser/605915ff-f8d4-45ef-95ea-95ae3849be4f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1689815334020	Marionette	INFO	Stopped listening on port 53480
+Dynamically enable window occlusion 1
+1689816638197	geckodriver	INFO	Listening on 127.0.0.1:54112
+1689816641248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54113" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofilexnGWkl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689816641610	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689816641700	Marionette	INFO	Listening on port 54125
+WebDriver BiDi listening on ws://127.0.0.1:54113
+Read port: 54125
+1689816641901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54113/devtools/browser/c34591d1-de39-4c8e-b992-43b424ebebeb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+[Child 28868, MediaDecoderStateMachine #4] WARNING: 1b911a05de0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+1689818799712	Marionette	INFO	Stopped listening on port 54125
+Dynamically enable window occlusion 1
+1689821783298	geckodriver	INFO	Listening on 127.0.0.1:54860
+1689821786427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofileo4wgvg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689821787006	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689821787157	Marionette	INFO	Listening on port 54869
+WebDriver BiDi listening on ws://127.0.0.1:54861
+Read port: 54869
+1689821787478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54861/devtools/browser/012acebb-0d64-4adf-a13b-7abe3be15a94
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+1689822074682	Marionette	INFO	Stopped listening on port 54869
+Dynamically enable window occlusion 1
+1689880294775	geckodriver	INFO	Listening on 127.0.0.1:62807
+1689880297881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62808" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofileexBTC8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689880298319	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689880298412	Marionette	INFO	Listening on port 62817
+Read port: 62817
+WebDriver BiDi listening on ws://127.0.0.1:62808
+1689880298483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62808/devtools/browser/59b114e4-823a-48a6-9425-f0ef3f9109e6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js line 4 > srcScript, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 4 > srcScript line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+1689880646531	Marionette	INFO	Stopped listening on port 62817
+Dynamically enable window occlusion 1
+1690332671836	geckodriver	INFO	Listening on 127.0.0.1:61636
+1690332674892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofilebDFpkp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690332675949	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690332676188	Marionette	INFO	Listening on port 61649
+WebDriver BiDi listening on ws://127.0.0.1:61637
+Read port: 61649
+1690332676705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61637/devtools/browser/d9439b5c-b8ba-4618-a49a-2530fddb9629
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+[Child 25940, MediaDecoderStateMachine #1] WARNING: 1de06e53790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 25940, MediaDecoderStateMachine #1] WARNING: 1de0978c790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\SANTIE~1\AppData\Local\Temp\rust_mozprofilebDFpkp\bookmarkbackups\bookmarks-2023-07-25.jsonlz4) because it does not exist
+1690350492102	Marionette	INFO	Stopped listening on port 61649
+Dynamically enable window occlusion 1
+[Parent 19356, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+1690495746344	geckodriver	INFO	Listening on 127.0.0.1:53908
+1690495749409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofileUkgFq0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690495749800	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690495749895	Marionette	INFO	Listening on port 53920
+WebDriver BiDi listening on ws://127.0.0.1:53909
+Read port: 53920
+1690495750152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53909/devtools/browser/08fb9980-193d-401e-aab0-d0424c0a8894
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1690505911243	geckodriver	INFO	Listening on 127.0.0.1:58444
+1690505914298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58445" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofileP8dBR0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690505914780	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690505914881	Marionette	INFO	Listening on port 58454
+WebDriver BiDi listening on ws://127.0.0.1:58445
+Read port: 58454
+1690505915118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58445/devtools/browser/1b5ef06e-9ee0-4218-87b9-9f446a213001
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+[Child 20000, MediaDecoderStateMachine #2] WARNING: 17fccd4f020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 20000, MediaDecoderStateMachine #3] WARNING: 17fccdb6570 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 20000, MediaDecoderStateMachine #4] WARNING: 17fcd070680 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 20000, MediaDecoderStateMachine #5] WARNING: 17fd313e240 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 20000, MediaDecoderStateMachine #6] WARNING: 17fd114d240 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 20000, MediaDecoderStateMachine #7] WARNING: 17fd1d3cab0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 20000, MediaDecoderStateMachine #8] WARNING: 17fcd070790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 20000, MediaDecoderStateMachine #9] WARNING: 17fd25fc350 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 20000, MediaDecoderStateMachine #10] WARNING: 17fccd4f020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 20000, MediaDecoderStateMachine #11] WARNING: 17fccb6cce0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 20000, MediaDecoderStateMachine #12] WARNING: 17fd25b3130 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 20000, MediaDecoderStateMachine #13] WARNING: 17fcd071780 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript error: https://repositorioterritorium.s3.amazonaws.com/1256/institucion/cms/comunidad/pagina_inicio/slider_inicio/slider_noticias.html, line 19: SyntaxError: expected expression, got '&'
+JavaScript error: https://repositorioterritorium.s3.amazonaws.com/1256/institucion/cms/comunidad/pagina_inicio/slider_inicio/slider_noticias.html, line 12: TypeError: $(...).rwdImageMaps is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1690509929400	Marionette	INFO	Stopped listening on port 58454
+Dynamically enable window occlusion 1
+1690533376874	geckodriver	INFO	Listening on 127.0.0.1:63663
+1690533379977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63664" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofile09Mh2X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690533380370	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690533380469	Marionette	INFO	Listening on port 63672
+WebDriver BiDi listening on ws://127.0.0.1:63664
+Read port: 63672
+1690533380691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63664/devtools/browser/797e0c0b-50ca-4e1a-a5b5-215dc2ef7070
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+1690541677394	Marionette	INFO	Stopped listening on port 63672
+Dynamically enable window occlusion 1
+1690541683239	geckodriver	INFO	Listening on 127.0.0.1:52761
+1690541686283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52762" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofileSYKYmt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690541686729	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690541686832	Marionette	INFO	Listening on port 52770
+WebDriver BiDi listening on ws://127.0.0.1:52762
+Read port: 52770
+1690541686907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52762/devtools/browser/04a2134a-41b8-41af-a745-d6f777073ae9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+1690583724294	geckodriver	INFO	Listening on 127.0.0.1:56944
+1690583727404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofiled7ks75"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690583727822	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690583727917	Marionette	INFO	Listening on port 56955
+WebDriver BiDi listening on ws://127.0.0.1:56945
+Read port: 56955
+1690583728127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56945/devtools/browser/6c19cfa6-e222-4b6e-b92b-161c82a5c20e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://botformacion.sena.edu.co/agenti_lite_senaformacion/js/scripts.js, line 230: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 580: Error: element not found drop
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+Invalid SOS parameters for sequential JPEG
+JavaScript error: https://sena.territorio.la/js/jquery.doubleScroll.js, line 5: ReferenceError: jQuery is not defined
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/bootstrap-modal.js, line 7: TypeError: $ is undefined
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/bootstrap-modalmanager.js, line 10: ReferenceError: jQuery is not defined
+JavaScript error: https://sena.territorio.la/perfil.php?persona=2471653&grupo=1423457 line 270 > Function, line 3: ReferenceError: MuestraIntegrantes is not defined
+Invalid SOS parameters for sequential JPEG
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.youtube.com/s/player/0e6aaa83/player_ias.vflset/es_MX/base.js, line 10756: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Invalid SOS parameters for sequential JPEG
+JavaScript error: https://sena.territorio.la/js/jquery.doubleScroll.js, line 5: ReferenceError: jQuery is not defined
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/bootstrap-modal.js, line 7: TypeError: $ is undefined
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/bootstrap-modalmanager.js, line 10: ReferenceError: jQuery is not defined
+JavaScript error: https://sena.territorio.la/perfil.php?persona=7791334&grupo=1423457 line 270 > Function, line 3: ReferenceError: MuestraIntegrantes is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.youtube.com/s/player/0e6aaa83/player_ias.vflset/es_MX/base.js, line 10756: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/player/0e6aaa83/player_ias.vflset/es_MX/base.js, line 10756: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+Invalid SOS parameters for sequential JPEG
+JavaScript error: https://sena.territorio.la/js/jquery.doubleScroll.js, line 5: ReferenceError: jQuery is not defined
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/bootstrap-modal.js, line 7: TypeError: $ is undefined
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/bootstrap-modalmanager.js, line 10: ReferenceError: jQuery is not defined
+JavaScript error: https://sena.territorio.la/perfil.php?persona=15721967&grupo=1423457 line 270 > Function, line 3: ReferenceError: MuestraIntegrantes is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.youtube.com/s/player/0e6aaa83/player_ias.vflset/es_MX/base.js, line 10756: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/player/0e6aaa83/player_ias.vflset/es_MX/base.js, line 10756: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+Invalid SOS parameters for sequential JPEG
+JavaScript error: https://sena.territorio.la/js/jquery.doubleScroll.js, line 5: ReferenceError: jQuery is not defined
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/bootstrap-modal.js, line 7: TypeError: $ is undefined
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/bootstrap-modalmanager.js, line 10: ReferenceError: jQuery is not defined
+JavaScript error: https://sena.territorio.la/perfil.php?persona=15720592&grupo=1423457 line 270 > Function, line 3: ReferenceError: MuestraIntegrantes is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.youtube.com/s/player/0e6aaa83/player_ias.vflset/es_MX/base.js, line 10756: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/player/0e6aaa83/player_ias.vflset/es_MX/base.js, line 10756: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+Invalid SOS parameters for sequential JPEG
+1690598860165	Marionette	INFO	Stopped listening on port 56955
+Dynamically enable window occlusion 1
+1690598866092	geckodriver	INFO	Listening on 127.0.0.1:59492
+1690598869156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofileNovUwz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690598869542	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690598869631	Marionette	INFO	Listening on port 59504
+WebDriver BiDi listening on ws://127.0.0.1:59493
+Read port: 59504
+1690598869848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59493/devtools/browser/8ca8dda8-42e4-4b9d-8f99-91e7637aff5b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js line 4 > srcScript, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 4 > srcScript line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 4 > srcScript line 2 > eval, line 559: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ilo.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ilo.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ilo.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ilo.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ilo.org."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 5278 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 3724 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 733 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 5051 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 702 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202307270101/pubads_impl_page_level_ads.js?cb=31076568, line 1: TypeError: a.o.Ha is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 3778 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 2745 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/Prompter.sys.mjs, line 1194: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+1690609863805	Marionette	INFO	Stopped listening on port 59504
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1690609868820	geckodriver	INFO	Listening on 127.0.0.1:50128
+1690609871875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50129" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofile15Rs7i"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690609872336	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690609872464	Marionette	INFO	Listening on port 50139
+WebDriver BiDi listening on ws://127.0.0.1:50129
+Read port: 50139
+1690609872726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50129/devtools/browser/d03e41f3-cc47-45cc-bd08-bd127820d7c0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://botformacion.sena.edu.co/agenti_lite_senaformacion/js/scripts.js, line 230: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 580: Error: element not found drop
+1690659905510	Marionette	INFO	Stopped listening on port 50139
+Dynamically enable window occlusion 1
+1690659909356	geckodriver	INFO	Listening on 127.0.0.1:54611
+1690659912390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54612" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofileCA5WoA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690659912773	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690659912873	Marionette	INFO	Listening on port 54624
+WebDriver BiDi listening on ws://127.0.0.1:54612
+Read port: 54624
+1690659913176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54612/devtools/browser/5638a397-fde4-488d-bdde-b8cb4628e01a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://botformacion.sena.edu.co/agenti_lite_senaformacion/js/scripts.js, line 230: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 580: Error: element not found drop
+JavaScript error: resource://gre/modules/Prompter.sys.mjs, line 1194: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1690669563209	Marionette	INFO	Stopped listening on port 54624
+Dynamically enable window occlusion 1
+1690669568753	geckodriver	INFO	Listening on 127.0.0.1:57478
+1690669571815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57479" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofileUdNly0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690669572886	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690669573245	Marionette	INFO	Listening on port 57495
+WebDriver BiDi listening on ws://127.0.0.1:57479
+Read port: 57495
+1690669573732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57479/devtools/browser/f7d8fced-fa42-4363-98a0-181771bbcb82
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://botformacion.sena.edu.co/agenti_lite_senaformacion/js/scripts.js, line 230: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 580: Error: element not found drop
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 580: Error: element not found drop
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 728, MediaDecoderStateMachine #1] WARNING: 212b530c350 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 728, MediaDecoderStateMachine #1] WARNING: 212b3dc2130 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 728, MediaDecoderStateMachine #1] WARNING: 212b42488a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 1458: TypeError: state.hideToggleDeferredTask is null
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+[Child 11152, MediaDecoderStateMachine #1] WARNING: 19d37162670 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 1458: TypeError: state.hideToggleDeferredTask is null
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+1690704328709	Marionette	INFO	Stopped listening on port 57495
+Dynamically enable window occlusion 1
+1690704333397	geckodriver	INFO	Listening on 127.0.0.1:63569
+1690704336444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63570" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofilexKjR3l"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690704336900	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690704337009	Marionette	INFO	Listening on port 63580
+WebDriver BiDi listening on ws://127.0.0.1:63570
+Read port: 63580
+1690704337292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63570/devtools/browser/ead07b69-6159-48f6-ac88-352e52879a31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://botformacion.sena.edu.co/agenti_lite_senaformacion/js/scripts.js, line 230: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 580: Error: element not found drop
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://botformacion.sena.edu.co/agenti_lite_senaformacion/js/scripts.js, line 230: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 580: Error: element not found drop
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: javascript:MuestraNoticias();, line 1: ReferenceError: MuestraNoticias is not defined
+JavaScript error: javascript:MuestraNoticias();, line 1: ReferenceError: MuestraNoticias is not defined
+JavaScript error: https://botformacion.sena.edu.co/agenti_lite_senaformacion/js/scripts.js, line 230: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 580: Error: element not found drop
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 580: Error: element not found drop
+[Child 9208, MediaDecoderStateMachine #1] WARNING: Decoder=241773b0100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 9208, MediaDecoderStateMachine #1] WARNING: Decoder=241773b0100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 9208, MediaDecoderStateMachine #1] WARNING: Decoder=2417752b800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 9208, MediaDecoderStateMachine #1] WARNING: Decoder=2417752b800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://repositorioterritorium.s3.amazonaws.com/1256/institucion/cms/comunidad/pagina_inicio/slider_inicio/slider_noticias.html, line 19: SyntaxError: expected expression, got '&'
+JavaScript error: https://repositorioterritorium.s3.amazonaws.com/1256/institucion/cms/comunidad/pagina_inicio/slider_inicio/slider_noticias.html, line 12: TypeError: $(...).rwdImageMaps is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1690721890431	Marionette	INFO	Stopped listening on port 63580
+Dynamically enable window occlusion 1
+1690721901936	geckodriver	INFO	Listening on 127.0.0.1:50828
+1690721905005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofileiII0jj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690721905439	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690721905538	Marionette	INFO	Listening on port 50837
+WebDriver BiDi listening on ws://127.0.0.1:50829
+Read port: 50837
+1690721905723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50829/devtools/browser/eacae69f-5968-49a1-9e57-660017fcbcce
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://botformacion.sena.edu.co/agenti_lite_senaformacion/js/scripts.js, line 230: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 580: Error: element not found drop
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://repositorioterritorium.s3.amazonaws.com/1256/institucion/cms/comunidad/pagina_inicio/slider_inicio/slider_noticias.html, line 19: SyntaxError: expected expression, got '&'
+JavaScript error: https://repositorioterritorium.s3.amazonaws.com/1256/institucion/cms/comunidad/pagina_inicio/slider_inicio/slider_noticias.html, line 12: TypeError: $(...).rwdImageMaps is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://botformacion.sena.edu.co/agenti_lite_senaformacion/js/scripts.js, line 230: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 580: Error: element not found drop
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 580: Error: element not found drop
+JavaScript error: resource://gre/modules/Prompter.sys.mjs, line 1194: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1690731721609	Marionette	INFO	Stopped listening on port 50837
+Dynamically enable window occlusion 1
+1690731732759	geckodriver	INFO	Listening on 127.0.0.1:52215
+1690731735840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52216" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofileVKP4PT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690731736251	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690731736348	Marionette	INFO	Listening on port 52225
+WebDriver BiDi listening on ws://127.0.0.1:52216
+Read port: 52225
+1690731736587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52216/devtools/browser/06317651-ed42-4d85-bfc0-84a6b2cef1d7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: resource://gre/modules/Prompter.sys.mjs, line 1194: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1690742297344	Marionette	INFO	Stopped listening on port 52225
+Dynamically enable window occlusion 1
+1690742301428	geckodriver	INFO	Listening on 127.0.0.1:53546
+1690742304492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53547" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofileXhoEPL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690742304926	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690742305024	Marionette	INFO	Listening on port 53558
+WebDriver BiDi listening on ws://127.0.0.1:53547
+Read port: 53558
+1690742305252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53547/devtools/browser/6dcd17f2-f856-4174-abf6-f03f611bb982
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+1690766328779	Marionette	INFO	Stopped listening on port 53558
+Dynamically enable window occlusion 1
+1690768201171	geckodriver	INFO	Listening on 127.0.0.1:55047
+1690768204224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55048" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofileO2XJRR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690768204724	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690768204824	Marionette	INFO	Listening on port 55057
+WebDriver BiDi listening on ws://127.0.0.1:55048
+Read port: 55057
+1690768205110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55048/devtools/browser/18610329-094a-42f8-a206-a3d1a58b8fae
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+1690791020153	geckodriver	INFO	Listening on 127.0.0.1:61091
+1690791023216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61092" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SANTIE~1\\AppData\\Local\\Temp\\rust_mozprofilez1tFPY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690791023546	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690791023642	Marionette	INFO	Listening on port 61101
+WebDriver BiDi listening on ws://127.0.0.1:61092
+Read port: 61101
+1690791023811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61092/devtools/browser/1f51b490-768a-40fd-aca0-346fe28367be
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/new_design/bootstrap/js/jquery-1.7.2.min.js line 2 > eval, line 559: TypeError: this._element is null
+JavaScript error: https://repositorioterritorium.s3.amazonaws.com/1256/institucion/cms/comunidad/pagina_inicio/slider_inicio/slider_noticias.html, line 19: SyntaxError: expected expression, got '&'
+JavaScript error: https://repositorioterritorium.s3.amazonaws.com/1256/institucion/cms/comunidad/pagina_inicio/slider_inicio/slider_noticias.html, line 12: TypeError: $(...).rwdImageMaps is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://sena.territorio.la/fileuploader.js, line 31: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sena.territorio.la."
+JavaScript error: https://sena.territorio.la/GalleryViewer/js/jquery.timers-1.2.js, line 13: TypeError: jQuery.timer is undefined
+JavaScript error: https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript warning: https://sena.territorio.la/js/backbone-min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sena.territorio.la/content_mooc.php?idMateria=1423457&social=17152092, line 41: ReferenceError: $ is not defined
+JavaScript warning: https://sena.territorio.la/Docs/js/docs.js?3, line 8: unreachable code after return statement
+JavaScript error: https://sena.territorio.la/tcu/tcu.js, line 2: TypeError: $(...).sortable is not a function
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1690796677236	Marionette	INFO	Stopped listening on port 61101
+Dynamically enable window occlusion 1

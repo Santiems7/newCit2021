@@ -1,0 +1,343 @@
+/*#prueba{
+  text-align: right;
+}*/
+/*#navbar {
+  position: fixed;
+}*/
+/*nav {
+  display: block;
+  height: 100%;
+}
+#navbar ul {
+  overflow-y: auto;
+  overflow-x: hidden;
+}  
+#navbar li {
+  position: relative;
+  width: 100%;
+}
+main{
+  margin-left: 260px;
+  display: block;
+}
+.d-flex.flex-column.flex-shrink-0.p-3.bg-lightorange {
+  height: 100%;
+}*/
+
+
+
+
+.bg-main {
+  background-color: #EFEFEF;
+}
+.nav-tabs {
+  --bs-nav-tabs-link-active-bg: #a4a1a1; 
+}
+.nav-link {
+  color: black;
+}
+.nav-link:hover{
+  color: #df9063; 
+}
+.bg-lightorange {
+  background-color: #FAD0B9;
+}
+.bg-vanilla {
+  background-color: #f3d8c7;
+}
+.bg-homeorange:hover{
+  background-color: #F98787;
+  border-radius: 10%;
+}
+
+
+/*.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+.b-example-divider {
+  width: 100%;
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.b-example-vr {
+  flex-shrink: 0;
+  width: 1.5rem;
+  height: 100vh;
+}
+
+.bi {
+  vertical-align: -.125em;
+  fill: currentColor;
+}
+
+.nav-scroller {
+  position: relative;
+  z-index: 2;
+  height: 2.75rem;
+  overflow-y: hidden;
+}
+
+.nav-scroller .nav {
+  display: flex;
+  flex-wrap: nowrap;
+  padding-bottom: 1rem;
+  margin-top: -1px;
+  overflow-x: auto;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+}
+
+.btn-bd-primary {
+  --bd-violet-bg: #712cf9;
+  --bd-violet-rgb: 112.520718, 44.062154, 249.437846;
+
+  --bs-btn-font-weight: 600;
+  --bs-btn-color: var(--bs-white);
+  --bs-btn-bg: var(--bd-violet-bg);
+  --bs-btn-border-color: var(--bd-violet-bg);
+  --bs-btn-hover-color: var(--bs-white);
+  --bs-btn-hover-bg: #6528e0;
+  --bs-btn-hover-border-color: #6528e0;
+  --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
+  --bs-btn-active-color: var(--bs-btn-hover-color);
+  --bs-btn-active-bg: #5a23c8;
+  --bs-btn-active-border-color: #5a23c8;
+}
+.bd-mode-toggle {
+  z-index: 1500;
+}*/
+
+
+/* main para el ingreso */
+.bg-body-tertiary {
+  position: relative;
+  background-color: #FAD4CC;
+  overflow: hidden;
+}
+
+.bg-body-tertiary::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-image: url("../images/fondoIngreso.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 1rem;
+}
+body .bg-body-tertiary{
+  background-color: #FAD4CC;
+}
+.btn-primary {
+  --bs-btn-bg: #df9063;
+  --bs-btn-border-color: none;
+  --bs-btn-hover-bg: #e97d3f;
+  --bs-btn-active-bg: #ec2a03;
+  --bs-btn-focus-shadow-rgb:  233,125,63;
+}
+input:focus {
+  box-shadow: 0 0 5px 2px #df9063 !important;
+  outline: none !important; 
+  border-color: #df9063!important;
+}
+.form-select:hover {
+  box-shadow: 0 0 5px 2px #df9063 !important;
+  outline: none !important; 
+  border-color: #df9063!important;
+}
+.form-select:focus {
+  box-shadow: 0 0 5px 2px #df9063 !important;
+  outline: none !important; 
+  border-color: #df9063!important;
+}
+.form-check-input:checked{
+  background-color: #df9063;
+}
+.form-check-input:checked {
+  border-color:  #df9063 !important;
+}
+.optionCargo:hover {
+  background-color: #fcc !important;
+}
+.linkRO{
+  color: #e97d3f!important;
+}
+  /*cambios para el botón para ver contraseña en registro*/
+.rowPassword{
+  --bs-gutter-x:none!important;
+}
+.buttonEyes{
+  height: 50.318182px;
+  width: 40px;
+  padding: 0px 0px 0px 0px;
+  border-width: 0px 0px 0px 0px;
+  box-shadow: none!important;
+  background-color: none!important;
+} 
+.buttonEyes:focus{
+  height: 50.318182px;
+  width: 40px;
+  padding: 0px 0px 0px 0px;
+  border-width: 0px 0px 0px 0px;
+  background-color: none!important;
+} 
+  /*cambios para centrar selects*/
+.form-floating>.form-select{
+  padding-top: 0.6rem!important;
+}
+
+  /*cambios para el Label de descripcion del input de contraseña en el panel de registro*/
+.activeLabel{
+  color:#a4a1a1;
+  text-decoration: none;
+  font-size: 12px;
+}
+  /*cambios para el Label del recuadro de informacion en el model de registro*/
+.activeLabel{
+  text-decoration: none;
+  font-size: 14px;
+}
+
+/*Control de usurios*/
+.input-group .mb-1 button {
+  --bs-btn-bg::#a4a1a1!important;
+  --bs-btn-border-color: #a4a1a1!important;
+}
+
+.espacio{
+  background-color: #e9ecef!important;
+  border: none!important;
+  opacity: 1!important;
+}
+.espacio:hover{
+  background-color: #e9ecef!important;
+}
+
+/* ALtura de la barra lateral nota: se le resta 16 de la suma de las dos margin*/
+@media (min-width: 992px) {
+  .sidebar {
+    height: calc(100vh - 16px); /* 100% del viewport height */
+  }
+}
+
+
+
+
+/* Tabla_select*/
+.table_select{
+  background-color: transparent!important;
+  border: transparent!important;
+  padding: 0 0 0 0!important;
+  border: 0;
+  height: 100%;
+}
+.table_select:focus{
+  box-shadow: none !important;
+  outline: none !important; 
+  border-color: black!important;
+}
+.table_select:hover{
+  box-shadow: none !important;
+  outline: none !important; 
+  border-color: black!important;
+}
+/* Table_orange */
+.table-orange{
+  --bs-table-bg: #999B9A!important;
+  opacity: 1!important ;
+}
+
+/* Boton eliminar en tabla */
+.btn-eliminar:focus{
+  box-shadow: 0 0 5px 2px #df9063 !important;
+  outline: none !important; 
+  border-color: #df9063!important;
+}
+.btn-eliminar{
+  --bs-btn-padding-y: 0 !important;
+  --bs-btn-padding-x: 0 !important;
+  border: none !important
+}
+
+/* Textarea */
+textarea {
+  padding:  0.7rem 0 0 0!important;
+  margin: 0!important;
+  border: 0!important;
+  background: none!important;
+  resize: none;
+  display: flex!important;
+  align-items: center;
+  overflow: auto;
+  height: 2.5em; /* cambiar 100px por la altura deseada */
+}
+
+
+textarea:hover{
+  border: none!important;
+  padding: 0!important;
+  --bs-table-hover-color: none!important;
+}
+
+textarea:focus{
+  border: none!important;
+  padding: 0!important;
+  --bs-table-hover-color: none!important;
+}
+
+/* thead */
+.sticky-top {
+  position: sticky;
+  top: 0;
+}
+
+.textareaFolio{
+  width: 4rem;
+}
+
+.textareaDescripcion{
+  width: 30rem;
+  height: 4rem;
+}
+.textareaDescripcion2{
+  height: 4rem;
+}
+
+.textareaRegistro{
+  width: 15rem;
+}
+
+.table-container {
+  position: relative;
+  height: 38rem; /* Ajusta esta altura según tus necesidades */
+  overflow-y: auto;
+}
+
+
+.bold-text {
+  font-weight: bold!important;
+}

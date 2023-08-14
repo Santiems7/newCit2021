@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "datatables.net": "^1.13.5",
+    "datatables.net-bs5": "^1.13.5",
+    "datatables.net-buttons-bs5": "^2.4.1",
+    "datatables.net-buttons-dt": "^2.4.1",
+    "datatables.net-dt": "^1.13.5",
+    "datatables.net-plugins": "^1.13.5"
+  }
+}
