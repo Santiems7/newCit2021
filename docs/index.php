@@ -7,7 +7,7 @@
    <title>CIT2021</title>
 </head>
 <body>
-   <?php
+   <?ph
       echo "<script language='Javascript'>
                document.location.href='vista/start.php';
             </script>";
